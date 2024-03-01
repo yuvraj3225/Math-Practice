@@ -18,7 +18,7 @@ This webapp is basically for kids to practice addition, substraction, multiplica
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/yuvraj3225/Math-Practice.git
 ```
 
 - Go to the directory
